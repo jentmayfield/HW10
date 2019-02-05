@@ -9,3 +9,5 @@ https://www.kaggle.com/jtrofe/beer-recipes
 https://www.kaggle.com/rdoume/beerreviews
 
 The steps Followed to clean the data and uploaded to a SQL DataBase are describe, as comments, In the Jupiter notebook file and SQL file.
+
+Note: Both of the original files were too big to upload to Github.
